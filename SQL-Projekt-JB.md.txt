@@ -1,0 +1,3 @@
+# SQL-Projekt-JB
+
+Tohle bude můj první soubor v novém repozitáři
